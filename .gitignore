@@ -1,0 +1,24 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+venv/
+*.env
+
+# Logs
+*.log
+logs/
+
+# Firebase
+firebase_key.json
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db

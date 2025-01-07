@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+tensorflow
+librosa
+numpy
+joblib
+firebase-admin
+gunicorn
