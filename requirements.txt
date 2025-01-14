@@ -3,6 +3,6 @@ tensorflow==2.18.0
 librosa==0.10.2.post1
 numpy==2.0.2
 joblib==1.4.2
-smtplib==0.1.0
+smtplib
 firebase-admin==6.6.0
 gunicorn==23.0.0
